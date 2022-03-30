@@ -19,3 +19,15 @@
 5. Клиент-серверное взаимодействие. Blocking и Non-Blocking IO [Тяжелые вычисления ряд Фибоначчи IO](https://github.com/rusandal/fibonacciSocket.git), [Уничтожитель пробелов NIO](https://github.com/rusandal/deleteSpaceNIO.git)
 ## Функциональное программирование
 1. Функциональное программирование в Java [Составление словаря](https://github.com/rusandal/functionalProgramming.git)
+## Web
+1. HTTP и современный Web [Refactoring & MultiThreading](https://github.com/rusandal/RefactoringServer)
+2. Формы и форматы передачи данных [Парсинг параметров запроса]()
+## Java Servlets
+1. Servlets Containers [CRUD сервер+webApp Runner](https://github.com/rusandal/servletContainer/tree/feature/webapp-runner)
+2. Dependency Injection + Servlets Containers [ServletConteiner+DI(Annotation)](https://github.com/rusandal/servletContainer/tree/feature/di-annotation), [ServletConteiner+DI(Java config)](https://github.com/rusandal/servletContainer/tree/master/src/main/java/ru/netology)
+3. Spring MVC [Spring MVC и Embed Tomcat](https://github.com/rusandal/RestSpringMVC)
+## Spring Boot
+1. Spring Boot [Поведение в зависимости от параметров (ConditionalOnProperties)](https://github.com/rusandal/SpringBootConditionalOnProperty)
+2. REST [Rest сервер](https://github.com/rusandal/RestSpringMVC)
+## Docker
+1. 
