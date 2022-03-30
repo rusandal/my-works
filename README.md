@@ -11,3 +11,11 @@
 ## Работа с сетью
 1. Основы сетевого взаимодействия [Клиент-серверное приложение](https://github.com/rusandal/OSI_connect)
 2. Протокол HTTP. Вызовы удаленных серверов [RequestResponse JSON](https://github.com/rusandal/request_response_cats), [API NASA](https://github.com/rusandal/API_NASA_request_response)
+## Многопоточное программирование
+1. Многопоточное (параллельное) программирование. Работа с потоками. [Межпоточный диалог](https://github.com/rusandal/ThreadsHomework1), [Межпоточный диалог со счетчиком](https://github.com/rusandal/ThreadHomework2.git)  
+2. Многопоточность - синхронизация [Автосалон](https://github.com/rusandal/CarManufactory)
+3. Переменные многопоточной программы. ThreadLocal. Atomics. Volatile. [Бесполезная коробка](https://github.com/rusandal/volatileBox.git), [Отчет для нологовой](https://github.com/rusandal/ThreadSumLongAdder.git)
+4. Коллекции для параллельной (конкурирующей) работы [Колл центр](https://github.com/rusandal/callcentre.git)
+5. Клиент-серверное взаимодействие. Blocking и Non-Blocking IO [Тяжелые вычисления ряд Фибоначчи IO](https://github.com/rusandal/fibonacciSocket.git), [Уничтожитель пробелов NIO](https://github.com/rusandal/deleteSpaceNIO.git)
+## Функциональное программирование
+1. Функциональное программирование в Java [Составление словаря](https://github.com/rusandal/functionalProgramming.git)
