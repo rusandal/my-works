@@ -30,4 +30,4 @@
 1. Spring Boot [Поведение в зависимости от параметров (ConditionalOnProperties)](https://github.com/rusandal/SpringBootConditionalOnProperty)
 2. REST [Web сервер](https://github.com/rusandal/RestSpringMVC)
 ## JPA
-1. ORM Hibernate, Liquebase [Spring Boot Web & Liquebase & Hibernate & Docker](https://github.com/rusandal/HibernatePersons), [Spring Boot Web & Liquebase & Spring Data JDBC & Hibernate & Docker](https://github.com/rusandal/SpringBootJdbcRestAPIAnswer)
+1. ORM Hibernate, Liquebase [Spring Boot Web & Liquibase & Hibernate & Docker](https://github.com/rusandal/HibernatePersons), [Spring Boot Web & Liquibase & Spring Data JDBC & Docker & Swagger](https://github.com/rusandal/SpringBootJdbcRestAPIAnswer)
