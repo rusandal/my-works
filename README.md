@@ -7,7 +7,7 @@
 5. Работа с файлами CSV, XML, JSON. [Конвертер CSV|XML в JSON + парсинг JSON](https://github.com/rusandal/CSV_XML_JSONv2)
 ## Тестирование кода
 1. Тестирование кода и Unit-тесты. [JUnit](https://github.com/rusandal/JUnit), [JUnit+Hamcrest](https://github.com/rusandal/JUnit_Hamcrest)
-2. Mockito. [Проверка сервиса](https://github.com/rusandal/geo-service/tree/feature/Mockito/src)
+2. Mockito. [Тестирование сервиса](https://github.com/rusandal/geo-service/tree/feature/Mockito/src)
 ## Работа с сетью
 1. Основы сетевого взаимодействия [Клиент-серверное приложение](https://github.com/rusandal/OSI_connect)
 2. Протокол HTTP. Вызовы удаленных серверов [RequestResponse JSON](https://github.com/rusandal/request_response_cats), [API NASA](https://github.com/rusandal/API_NASA_request_response)
