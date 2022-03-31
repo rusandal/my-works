@@ -1,4 +1,4 @@
-# Задания
+# Разработанные программы
 ## Java Core
 1. Лямбда и функциональные интерфейсы [Калькулятор](https://github.com/rusandal/Labda-Functional-interface), [Работяга](https://github.com/rusandal/lambdaWorker)  
 2. Stream API. Потоки, повторные вызовы, основные методы [Работа с числами](https://github.com/rusandal/Stream-API), [Перепись населения](https://github.com/rusandal/Stream-API---Worker)  
