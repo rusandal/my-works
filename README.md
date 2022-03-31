@@ -31,3 +31,6 @@
 2. REST [Web сервер](https://github.com/rusandal/RestSpringMVC)
 ## JPA
 1. ORM Hibernate, Liquebase [Spring Boot Web | Liquibase | Hibernate | Docker](https://github.com/rusandal/HibernatePersons),  [Spring Boot Web | Liquibase | Spring Data JDBC | Docker | Swagger](https://github.com/rusandal/SpringBootJdbcRestAPIAnswer)
+## Spring Security
+1. Безопасность на уровне endPoint [Spring Boot Web | Spring Security](https://github.com/rusandal/SpringSecurity.git)
+2. Безопасность на уровне методов [Spring Boot Web | Spring Security | Liquibase | Hibernate | Docker](https://github.com/rusandal/HibernatePersons/tree/feature/security)
